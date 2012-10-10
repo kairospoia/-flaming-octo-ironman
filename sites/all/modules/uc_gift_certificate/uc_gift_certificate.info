@@ -1,0 +1,16 @@
+name = Gift Certificates
+description = UC Gift Certificate
+dependencies[] = uc_store
+dependencies[] = uc_product
+dependencies[] = uc_cart
+dependencies[] = uc_attribute
+dependencies[] = token
+package = Ubercart - payment
+core = 6.x
+
+; Information added by drupal.org packaging script on 2012-07-12
+version = "6.x-2.x-dev"
+core = "6.x"
+project = "uc_gift_certificate"
+datestamp = "1342097976"
+

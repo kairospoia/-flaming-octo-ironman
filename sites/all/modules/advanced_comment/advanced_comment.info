@@ -1,0 +1,13 @@
+; $Id: advanced_comment.info,v 1.1 2010/03/28 00:09:15 snufkin Exp $
+name = Advanced Comment
+description = Enhancing the core comment features 
+
+core = 6.x
+dependencies[] = comment
+
+; Information added by drupal.org packaging script on 2010-06-08
+version = "6.x-1.0"
+core = "6.x"
+project = "advanced_comment"
+datestamp = "1276000204"
+
